@@ -1,0 +1,7 @@
+#Fri Oct 06 00:15:47 AST 2017
+base.0=F\:\\android ocr\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_386c5bcfebe867f4565b8e3b27e1added69bacee
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\android ocr\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f84296cd3ce22752f502a6cef881089074bfdaa0\\classes.dex
+base.1=F\:\\android ocr\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f84296cd3ce22752f502a6cef881089074bfdaa0
+file.0=F\:\\android ocr\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_386c5bcfebe867f4565b8e3b27e1added69bacee\\classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android ocr\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "F:\\android ocr\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\android ocr\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icons.png",
+        "source": "F:\\android ocr\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\icons.png"
+    },
+    {
+        "merged": "F:\\android ocr\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\torch.png",
+        "source": "F:\\android ocr\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\torch.png"
+    },
+    {
+        "merged": "F:\\android ocr\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\torch2.png",
+        "source": "F:\\android ocr\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\torch2.png"
+    }
+]

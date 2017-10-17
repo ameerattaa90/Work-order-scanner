@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:7:19-67
+uses-permission#android.permission.CAMERA
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Ameer\.android\build-cache\d78c43e7b27c897699657014bb7bcf343ba4549e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ameer\.android\build-cache\e5cf34b48984ce6bbae48b9ea704f55b700e9d53\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ameer\.android\build-cache\75a3dd746fcf850836168a4e5abf30d2b4c3df2d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ameer\.android\build-cache\e90185e940318d489b9ae48764f9ae180f3e90e7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Ameer\.android\build-cache\8b79b395d5596200880b9861c88071d72d97f889\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Ameer\.android\build-cache\16c8e3882abe0ba74a24b7e43cef39eedd0979b3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Ameer\.android\build-cache\a3a5f38fcdd8a9a35191fe5c7c2d88fed92b58ec\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Ameer\.android\build-cache\7080231872cbb00da10485df5521df9586a66402\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Ameer\.android\build-cache\8e9ec8f6cf39dd1c9ab61b1ae4311784723b97e7\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Ameer\.android\build-cache\a8c417f42bf8a3802b596d0a411f03603e6d233f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ameer\.android\build-cache\5b6e5c0e1effa8f3386ea0c18690e7059153671a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ameer\.android\build-cache\21e2f4a5e051e662d13547ca27f23bb814e468b3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ameer\.android\build-cache\8acfe2db8901d153304ae27c2ed36e1de98c90dc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ameer\.android\build-cache\1c45bbabc371a8b08a723aee94b6cc45472256e5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ameer\.android\build-cache\56e3e673b917d4519c2fce97247708b1bdc6d88d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ameer\.android\build-cache\98a3ec1e14c41fa0ef4e06cd716f3c12e388baf3\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:15:9-35
+	android:supportsRtl
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:16:9-37
+	android:hardwareAccelerated
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:14:9-39
+	android:theme
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Ameer\.android\build-cache\a8c417f42bf8a3802b596d0a411f03603e6d233f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:26:13-40
+	android:name
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:25:19-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Ameer\.android\build-cache\d78c43e7b27c897699657014bb7bcf343ba4549e\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ameer\.android\build-cache\e5cf34b48984ce6bbae48b9ea704f55b700e9d53\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ameer\.android\build-cache\75a3dd746fcf850836168a4e5abf30d2b4c3df2d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ameer\.android\build-cache\e90185e940318d489b9ae48764f9ae180f3e90e7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Ameer\.android\build-cache\2eb18540f411f2fdf1d9c6d3ed5dc89d27026224\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Ameer\.android\build-cache\8b79b395d5596200880b9861c88071d72d97f889\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Ameer\.android\build-cache\16c8e3882abe0ba74a24b7e43cef39eedd0979b3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Ameer\.android\build-cache\a3a5f38fcdd8a9a35191fe5c7c2d88fed92b58ec\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Ameer\.android\build-cache\7080231872cbb00da10485df5521df9586a66402\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Ameer\.android\build-cache\8e9ec8f6cf39dd1c9ab61b1ae4311784723b97e7\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Ameer\.android\build-cache\a8c417f42bf8a3802b596d0a411f03603e6d233f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ameer\.android\build-cache\5b6e5c0e1effa8f3386ea0c18690e7059153671a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ameer\.android\build-cache\21e2f4a5e051e662d13547ca27f23bb814e468b3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ameer\.android\build-cache\8acfe2db8901d153304ae27c2ed36e1de98c90dc\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ameer\.android\build-cache\1c45bbabc371a8b08a723aee94b6cc45472256e5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ameer\.android\build-cache\56e3e673b917d4519c2fce97247708b1bdc6d88d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ameer\.android\build-cache\98a3ec1e14c41fa0ef4e06cd716f3c12e388baf3\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Ameer\.android\build-cache\d78c43e7b27c897699657014bb7bcf343ba4549e\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android ocr\ocr-reader-start\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Ameer\.android\build-cache\d78c43e7b27c897699657014bb7bcf343ba4549e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ameer\.android\build-cache\e5cf34b48984ce6bbae48b9ea704f55b700e9d53\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ameer\.android\build-cache\75a3dd746fcf850836168a4e5abf30d2b4c3df2d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ameer\.android\build-cache\e90185e940318d489b9ae48764f9ae180f3e90e7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Ameer\.android\build-cache\2eb18540f411f2fdf1d9c6d3ed5dc89d27026224\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Ameer\.android\build-cache\8b79b395d5596200880b9861c88071d72d97f889\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ameer\.android\build-cache\5b6e5c0e1effa8f3386ea0c18690e7059153671a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ameer\.android\build-cache\21e2f4a5e051e662d13547ca27f23bb814e468b3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ameer\.android\build-cache\8acfe2db8901d153304ae27c2ed36e1de98c90dc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ameer\.android\build-cache\1c45bbabc371a8b08a723aee94b6cc45472256e5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ameer\.android\build-cache\56e3e673b917d4519c2fce97247708b1bdc6d88d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ameer\.android\build-cache\98a3ec1e14c41fa0ef4e06cd716f3c12e388baf3\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Ameer\.android\build-cache\d78c43e7b27c897699657014bb7bcf343ba4549e\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Ameer\.android\build-cache\d78c43e7b27c897699657014bb7bcf343ba4549e\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Ameer\.android\build-cache\7080231872cbb00da10485df5521df9586a66402\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Ameer\.android\build-cache\7080231872cbb00da10485df5521df9586a66402\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Ameer\.android\build-cache\7080231872cbb00da10485df5521df9586a66402\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Ameer\.android\build-cache\7080231872cbb00da10485df5521df9586a66402\output\AndroidManifest.xml:19:19-85
